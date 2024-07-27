@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:588CBAAC
+NODE:I LEVEL:0 LINE:4 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:5 "C:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:6 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:8 "my_hour -> R4,R5"
+NODE:V LEVEL:0 LINE:9 "my_minute -> R6,R7"
+NODE:V LEVEL:0 LINE:10 "my_second -> R8,R9"
+NODE:V LEVEL:0 LINE:11 "my_ms -> R10,R11"
+NODE:F LEVEL:0 LINE:13 "int_to_char_custom(unsigned int x)"
+NODE:F LEVEL:0 LINE:17 "display_on_lcd(int value,int column)"
+NODE:F LEVEL:0 LINE:27 "timer1_compa_isr_custom(void)"
+NODE:F LEVEL:0 LINE:50 "main(void)"

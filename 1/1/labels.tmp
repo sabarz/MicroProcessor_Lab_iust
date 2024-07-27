@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>E:\saba folder\univercity\term 8 4022\Micro Lab\1\1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\saba folder\univercity\term 8 4022\Micro Lab\1\1\1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\saba folder\univercity\term 8 4022\Micro Lab\1\1\1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\saba folder\univercity\term 8 4022\Micro Lab\1\1\1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\saba folder\univercity\term 8 4022\Micro Lab\1\1\1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MY1><FILE>E:\saba folder\univercity\term 8 4022\Micro Lab\1\1\1.asm</FILE><LINE>10</LINE></MY1>
+  <MY2><FILE>E:\saba folder\univercity\term 8 4022\Micro Lab\1\1\1.asm</FILE><LINE>11</LINE></MY2>
+  <DELAY><FILE>E:\saba folder\univercity\term 8 4022\Micro Lab\1\1\1.asm</FILE><LINE>16</LINE></DELAY>
+  <L1><FILE>E:\saba folder\univercity\term 8 4022\Micro Lab\1\1\1.asm</FILE><LINE>17</LINE></L1>
+  <L2><FILE>E:\saba folder\univercity\term 8 4022\Micro Lab\1\1\1.asm</FILE><LINE>18</LINE></L2>
+  <L3><FILE>E:\saba folder\univercity\term 8 4022\Micro Lab\1\1\1.asm</FILE><LINE>19</LINE></L3>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:5872891A
+NODE:I LEVEL:0 LINE:3 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:4 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:6 "Lines -> R5"
+NODE:C LEVEL:0 LINE:7 "image_code -> FLASH"
+NODE:F LEVEL:0 LINE:93 "main(void)"
